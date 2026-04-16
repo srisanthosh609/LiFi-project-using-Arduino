@@ -22,7 +22,8 @@ This project implements a **Light Fidelity (LiFi)** communication system. It use
 3. **Receiver:** An LDR or Solar Cell detects the light intensity changes and converts them back into electrical signals, which the second Arduino decodes into the original message.
 
 ## 🔧 Circuit Diagram
-[Add an image or a link to your circuit diagram here]
+<img width="1599" height="1060" alt="image" src="https://github.com/user-attachments/assets/4799ef6f-8d05-466f-896a-1389035f5195" />
+
 
 ## 💻 Software Setup
 1. Clone the repository:
